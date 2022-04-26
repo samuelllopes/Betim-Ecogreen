@@ -12,7 +12,7 @@
 * [Contribuição](##Contribuição)
 * [Autores](##Autores)
 * [Licença](##Licença)
-* [Agradecimentos](##Agradecimentos)
+* [Agradecimentos](#Agradecimentos)
 
 ## Requisitos Funcionais
 
@@ -24,5 +24,5 @@
 
 ## Licença
 
-## Agradecimentos 
+# Agradecimentos 
 ola mundo
