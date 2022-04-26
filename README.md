@@ -5,14 +5,14 @@
 
 ## Índice/Sumário
 
-* [sobre](##Sobre-o-Projeto) 
-
-
-
-
-
-
-
+* [Sobre o Projeto](##Sobre-o-Projeto) 
+* [Índice/Sumário](##Índice-/-Sumário)
+* [Requisitos Funcionais](##Requisitos-Funcionais)
+* [Tecnologias Usadas](##Tecnologias-Usadas)
+* [Contribuição](##Contribuição)
+* [Autores](##Autores)
+* [Licença](##Licença)
+* [Agradecimentos](##Agradecimentos)
 
 ## Requisitos Funcionais
 
