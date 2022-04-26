@@ -4,5 +4,3 @@
 ## Sobre o Projeto
 
 ## Índice/Sumário
-* [sobre o projeto
-* 
