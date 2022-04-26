@@ -20,7 +20,7 @@ o
 n
 t
 e
-u
+ú
 d
 o
 # Tecnologias Usadas
@@ -29,7 +29,7 @@ o
 n
 t
 e
-u
+ú
 d
 o
 # Contribuição
@@ -38,7 +38,7 @@ o
 n
 t
 e
-u
+ú
 d
 o
 # Autores
@@ -47,7 +47,7 @@ o
 n
 t
 e
-u
+ú
 d
 o
 # Licença
@@ -56,7 +56,7 @@ o
 n
 t
 e
-u
+ú
 d
 o
 # Agradecimentos 
