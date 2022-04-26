@@ -6,3 +6,22 @@
 ## Índice/Sumário
 
 * [sobre](##Sobre-o-Projeto) 
+
+
+
+
+
+
+
+
+## Requisitos Funcionais
+
+## Tecnologias Usadas
+
+## Contribuição
+
+## Autores
+
+## Licença
+
+## Agradecimentos
