@@ -1,6 +1,6 @@
 # CONSUMO E PRODUÇÃO RESPONSÁVEIS 
 
- ![image](https://cebds.org/wp-content/uploads/2019/06/cebds.org-onu-lanca-publicacao-em-portugues-sobre-metas-de-producao-e-consumo-responsaveis-lixao-409x266.jpg)
+ ![image](https://www.teatroguaira.pr.gov.br/sites/teatro-guaira/arquivos_restritos/files/imagem/2020-08/ods12.png) 
 # Sobre o Projeto
 
 # Índice/Sumário
