@@ -2,9 +2,9 @@
 
  ![image](https://www.teatroguaira.pr.gov.br/sites/teatro-guaira/arquivos_restritos/files/imagem/2020-08/ods12.png) 
 # Sobre o Projeto
-## ETAPA 1- COMPLETA 
+### ETAPA 1- COMPLETA 
 
-## ETAPA 2- COMPLETA 
+### ETAPA 2- COMPLETA 
 
 # Índice/Sumário
 
