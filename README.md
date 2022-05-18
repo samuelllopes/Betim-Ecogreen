@@ -4,6 +4,8 @@
 # Sobre o Projeto
 ### ETAPA 1- COMPLETA 
 
+[Etapa 1 - Sentir - Fichas Completa.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8721249/Etapa.1.-.Sentir.-.Fichas.Completa.pdf)
+
 ### ETAPA 2- COMPLETA 
 
 # Índice/Sumário
