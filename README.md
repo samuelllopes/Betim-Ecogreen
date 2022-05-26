@@ -12,7 +12,9 @@
 
 ### ETAPA 2- COMPLETA 
 
-[Uploading Etapa 3 - Ficha Completo.pptx…]()
+[Etapa 3 - Ficha Completo.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8775344/Etapa.3.-.Ficha.Completo.pdf)
+
+
 
 
 
