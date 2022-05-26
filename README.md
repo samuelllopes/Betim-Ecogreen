@@ -10,6 +10,12 @@
 
 [Etapa 2 - Ficha Completa.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8721254/Etapa.2.-.Ficha.Completa.pdf)
 
+### ETAPA 2- COMPLETA 
+
+[Uploading Etapa 3 - Ficha Completo.pptx…]()
+
+
+
 
 
 # Índice/Sumário
