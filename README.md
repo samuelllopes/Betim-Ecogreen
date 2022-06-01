@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 * [Licença](#Licença)
 * [Agradecimentos](#Agradecimentos)
 
-# Etapas concluidas 
+# Etapas concluídas 
 
 - [x] **Etapa 1**
 - [x] **Etapa 2**
