@@ -4,7 +4,7 @@
 
 
 # Sobre o Projeto
-                                                                  🚧 Em desenvolvimento . . .
+                                                               🚧 Em desenvolvimento . . .
 
 ### ETAPA 1- COMPLETA 
 
