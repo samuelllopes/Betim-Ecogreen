@@ -70,15 +70,8 @@ o
  - **Daniel de Oliveira Fonseca**
  - **Maria Eduarda Silva**
  - **João Gabriel Alves**
- - **Samuel Lopes Nazário **
- - ** Wallace Rodrigues de Oliveira**
-o
-n
-t
-e
-ú
-d
-o
+ - **Samuel Lopes Nazário**
+ - **Wallace Rodrigues de Oliveira**
 # Licença
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Samuellopes31/Betim-Ecogreem/blob/main/LICENSE) para mais detalhes.
 
