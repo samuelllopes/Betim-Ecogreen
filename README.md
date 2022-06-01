@@ -75,13 +75,7 @@ e
 d
 o
 # Licença
-c
-o
-n
-t
-e
-ú
-d
-o
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Samuellopes31/Betim-Ecogreem/blob/main/LICENSE) para mais detalhes.
+
 # Agradecimentos 
 olá mundo
