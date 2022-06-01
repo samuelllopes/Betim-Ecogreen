@@ -4,7 +4,9 @@
 
 
 # Sobre o Projeto
-                                                               🚧 Em desenvolvimento . . .
+
+<h4 align="center"> 🚧 Em desenvolvimento . . . 
+
 
 ### ETAPA 1- COMPLETA 
 
