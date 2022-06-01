@@ -1,6 +1,7 @@
 # BETIM ECOGREEN
 
- ![Betim EcoGreen (1)](https://user-images.githubusercontent.com/103187575/171509582-b46322d0-1af7-4770-8054-04a334bfdb96.png)
+ ![Banner para Linkedin capa de perfil  para programador  (1)](https://user-images.githubusercontent.com/103187575/171509708-e701a135-72f2-4d16-94b6-f6e88793df67.png)
+
 
 # Sobre o Projeto
 ### ETAPA 1- COMPLETA 
