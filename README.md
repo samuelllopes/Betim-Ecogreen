@@ -1,6 +1,7 @@
 # BETIM ECOGREEN
 
- ![image](https://www.teatroguaira.pr.gov.br/sites/teatro-guaira/arquivos_restritos/files/imagem/2020-08/ods12.png) 
+ ![Betim EcoGreen (1)](https://user-images.githubusercontent.com/103187575/171509582-b46322d0-1af7-4770-8054-04a334bfdb96.png)
+
 # Sobre o Projeto
 ### ETAPA 1- COMPLETA 
 
