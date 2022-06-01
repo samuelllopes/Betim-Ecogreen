@@ -76,4 +76,4 @@ o
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Samuellopes31/Betim-Ecogreem/blob/main/LICENSE) para mais detalhes.
 
 # Agradecimentos 
-Agradecemos a todos os integrantes do grupo que se uniram e batalharam para a execussão deste trabalho
+Agradecemos a todos os integrantes do grupo que se uniram e batalharam para a execussão deste trabalho, agradecemos também ao professor Diego Augusto por todo o suporte dado durante o período do projeto, gratidão as pessoas que foram entrevistadas e se disponibilizaram para ajudar o grupo.
