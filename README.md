@@ -66,7 +66,12 @@ e
 d
 o
 # Autores
-c
+**Cesar Henrique Soares**
+ **Daniel de Oliveira Fonseca**
+ **Maria Eduarda Silva**
+ **João Gabriel Alves**
+ **Samuel Lopes Nazário **
+ ** Wallace Rodrigues de Oliveira**
 o
 n
 t
