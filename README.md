@@ -39,10 +39,10 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 # Requisitos Funcionais
 
 - [x] **Etapa 1**
-
-
-
-
+- [x] **Etapa 2**
+- [x] **Etapa 3**
+- [] **Etapa 4**
+- [] **Etapa Final**
 
 
 
