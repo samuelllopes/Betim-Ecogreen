@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 
 
 # Tecnologias Usadas
-- [PhotoShop]()
+- [PhotoShop](https://www.adobe.com/br/products/photoshop.html)
 - [PhotoShop]()
 - [PhotoShop]()
 - [Flutter](https://flutter.dev/)
