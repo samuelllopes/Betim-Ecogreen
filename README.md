@@ -4,6 +4,8 @@
 
 
 # Sobre o Projeto
+                                                                  🚧 Em desenvolvimento . . .
+
 ### ETAPA 1- COMPLETA 
 
 [Etapa 1 - Sentir - Fichas Completa.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8721249/Etapa.1.-.Sentir.-.Fichas.Completa.pdf)
