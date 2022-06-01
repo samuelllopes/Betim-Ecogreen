@@ -53,14 +53,7 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 
 
 # Tecnologias Usadas
-c
-o
-n
-t
-e
-ú
-d
-o
+- [PhotoShop].(https://www.adobe.com/br/products/photoshop/landpa.html)
 # Contribuição
 c
 o
