@@ -53,7 +53,8 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 
 
 # Tecnologias Usadas
-- [PhotoShop](https://www.adobe.com/br/products/photoshop.html)
+- ![image](https://user-images.githubusercontent.com/103187575/171520387-2bd3515b-7054-44cf-a75f-acbadaf6da1e.png)
+[PhotoShop](https://www.adobe.com/br/products/photoshop.html)
 - [Canvas](https://www.canva.com)
 - [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
 # Contribuição
