@@ -37,14 +37,15 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 * [Agradecimentos](#Agradecimentos)
 
 # Requisitos Funcionais
-c
-o
-n
-t
-e
-ú
-d
-o
+
+- [x] **Etapa 1**
+
+
+
+
+
+
+
 # Tecnologias Usadas
 c
 o
