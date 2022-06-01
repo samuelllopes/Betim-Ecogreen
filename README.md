@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274
 - [Canvas](https://www.canva.com)
 - [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
 # Contribuição
-Leia o arquivo [CONTRIBUTING.md] (https://github.com/Samuellopes31/Betim-Ecogreem/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo [CONTRIBUTING.md](https://github.com/Samuellopes31/Betim-Ecogreem/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 # Autores
  - **Cesar Henrique Soares**
  - **Daniel de Oliveira Fonseca**
