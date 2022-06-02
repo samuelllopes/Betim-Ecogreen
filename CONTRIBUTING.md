@@ -6,3 +6,17 @@ Nosso projeto Betim-Ecogreen, busca dar um pouco mais de etíca moral para a soc
 
 Compremetemo-nos a interagir com a população de maneira que possamos realmente entregar a população tudo aquilo que foi pensado para nosso aplicativo, buscando  inovar 
 o ecossistema da nossa cidade de maneira respeitosa, acolhedora e inclusiva.
+
+## **Nossos padrões**
+Exemplos de comportamentos positivos:
+- Demonstrar lugares em Betim que precisam de um cuidado maior com coletas de responsaveís.
+- Receber feedbacks da população sobre oque devemos melhorar e oque esta bom.
+- Focar no que é melhor para a sociedade e para o aplicativo.
+- Demonstrar bondade com as pessoas.
+
+Exemplos de comportamentos negativos:
+
+- Utilizar o aplicativo Betim-Ecogreen para insultar os colaboradores, por meio de feedbacks;
+- Utilização do aplicativo para fazer falsas denuncias.
+- Espalhar notícias falsas sobre a poluição na comunidade.
+
