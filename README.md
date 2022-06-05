@@ -5,6 +5,8 @@
 
 # Sobre o Projeto
 
+Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas que enfrentam o problema de falta de saneamento básico na várzea das flores que atinge uma vasta área de Betim e cidades próximas.
+
 <h4 align="center"> 🚧 Em desenvolvimento . . . 
 
 
