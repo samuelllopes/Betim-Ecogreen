@@ -63,7 +63,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 # Tecnologias Usadas
  
-- <ing scr= "![888872](https://user-images.githubusercontent.com/103187575/172058187-35a837cd-985e-470e-bfb7-a52f4c2941b9.png)" width= "20px"/> [Photshop](https://www.adobe.com/br/products/photoshop.html)
+- [Photshop](https://www.adobe.com/br/products/photoshop.html)
 - [Canvas](https://www.canva.com)
 - [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
  
