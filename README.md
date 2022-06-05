@@ -1,11 +1,14 @@
-# BETIM ECOGREEN
+# BETIM ECOGREEN 
 
  ![Banner para Linkedin capa de perfil  para programador  (1)](https://user-images.githubusercontent.com/103187575/171509708-e701a135-72f2-4d16-94b6-f6e88793df67.png)
-
 
 # Sobre o Projeto
 
 Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas que enfrentam o problema de falta de saneamento básico na várzea das flores que atinge uma vasta área de Betim e cidades próximas.
+
+div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <h4 align="center"> 🚧 Em desenvolvimento . . . 
 
