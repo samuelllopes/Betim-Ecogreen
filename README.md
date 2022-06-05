@@ -6,9 +6,6 @@
 
 Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas que enfrentam o problema de falta de saneamento básico na várzea das flores que atinge uma vasta área de Betim e cidades próximas.
 
-div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <h4 align="center"> 🚧 Em desenvolvimento . . . 
 
