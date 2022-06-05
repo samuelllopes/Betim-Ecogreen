@@ -31,7 +31,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
  [Slide Pitch Projeto Inovador.pdf](https://github.com/Samuellopes31/Betim-Ecogreen/files/8840194/Slide.Pitch.Projeto.Inovador.pdf)
 
 
-
+### VÍDEO PITCH- ✅
 
 
 
