@@ -10,15 +10,15 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 <h4 align="center"> 🚧 Em desenvolvimento . . . 
 
 
-### ETAPA 1- COMPLETA 
+### ETAPA 1- ✅
 
 [Etapa 1 - Sentir - Fichas Completa.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8721249/Etapa.1.-.Sentir.-.Fichas.Completa.pdf)
 
-### ETAPA 2- COMPLETA 
+### ETAPA 2- ✅
 
 [Etapa 2 - Ficha Completa.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8721254/Etapa.2.-.Ficha.Completa.pdf)
 
-### ETAPA 3- COMPLETA 
+### ETAPA 3- ✅
 
 [Etapa 3 - Ficha Completo.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8775344/Etapa.3.-.Ficha.Completo.pdf)
  
@@ -26,7 +26,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
  https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274-9368-b8b8cb0c1899.mp4
  
 
-### ETAPA 4- COMPLETA 
+### ETAPA 4- ✅
  
  [Slide Pitch Projeto Inovador.pdf](https://github.com/Samuellopes31/Betim-Ecogreen/files/8840194/Slide.Pitch.Projeto.Inovador.pdf)
 
