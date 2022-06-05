@@ -57,8 +57,8 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 - [x] **Etapa 1**
 - [x] **Etapa 2**
 - [x] **Etapa 3**
-- [ ] **Etapa 4**
-- [ ] **Etapa Final**
+- [x] **Etapa 4**
+- [ ] **Etapa Final - Pitch**
 
 
 
