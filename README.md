@@ -63,7 +63,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 
 # Tecnologias Usadas
-- [Photshop]://www.adobe.com/br/products/photoshop.html)
+- [Photshop](https://www.adobe.com/br/products/photoshop.html)
 - [Canvas](https://www.canva.com)
 - [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
 # Contribuição
