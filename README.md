@@ -40,12 +40,11 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 
 
-
 # Índice/Sumário
 
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
-* [Etapas Concluidas](#Etapas-Concluidas)
+* [Etapas concluídas](#Etapas-concluídas)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Contribuição](#Contribuição)
 * [Autores](#Autores)
