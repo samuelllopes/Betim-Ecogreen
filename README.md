@@ -66,7 +66,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 - <img src="https://user-images.githubusercontent.com/103187575/172058187-35a837cd-985e-470e-bfb7-a52f4c2941b9.png" width="20px" /> [Photshop](https://www.adobe.com/br/products/photoshop.html)
 - <img src="https://user-images.githubusercontent.com/103187575/172058650-ece7797b-c4cc-44cc-8b2f-bd03a4c3e016.png" width="20px" /> [Canvas](https://www.canva.com)
-- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
+- <img src="https://user-images.githubusercontent.com/103187575/172058744-cfce09c5-cec0-4986-938f-149e967017c3.png" width="20px" /> [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365)
  
  
  
