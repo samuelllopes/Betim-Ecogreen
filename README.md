@@ -45,7 +45,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
-* [Requisitos Funcionais](#Requisitos-Funcionais)
+* [Etapas Concluidas](#Etapas-Concluidas)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Contribuição](#Contribuição)
 * [Autores](#Autores)
