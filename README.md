@@ -33,7 +33,7 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 ### VÍDEO PITCH- ✅
 
-
+https://youtu.be/Q6yWiuOIROk
 
 
 
