@@ -28,7 +28,9 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 ### ETAPA 4- ✅
  
+
 [Uploading Slide Pitch Projeto Inovador.pdf…]()
+
 
 
 
