@@ -22,16 +22,17 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 
 [Etapa 3 - Ficha Completo.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8775344/Etapa.3.-.Ficha.Completo.pdf)
  
- 
- 
- 
+
+
+https://user-images.githubusercontent.com/103187575/172736069-c932b9cb-200d-43de-89f0-8b231a4d69a8.mp4
+
 
 ### ETAPA 4- ✅
  
+ 
 
-[Uploading Slide Pitch Projeto Inovador.pdf…]()
 
-
+ 
 
 
 ### VÍDEO PITCH- ✅
