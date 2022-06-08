@@ -80,7 +80,7 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Samuellopes31/Betim-Ecogreem
 # Autores
  - **Cesar Henrique Soares**
  - **Daniel de Oliveira Fonseca**
- - **Maria Eduarda Silva**
+ - **Maria Eduarda Silva Barbosa**
  - **João Gabriel Alves**
  - **Samuel Lopes Nazário**
  - **Wallace Rodrigues de Oliveira**
