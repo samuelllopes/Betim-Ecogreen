@@ -57,7 +57,7 @@ https://youtu.be/Q6yWiuOIROk
 - [x] **Etapa 2**
 - [x] **Etapa 3**
 - [x] **Etapa 4**
-- [ ] **Etapa Final - Pitch**
+- [x] **Etapa Final - Pitch**
 
 
 
