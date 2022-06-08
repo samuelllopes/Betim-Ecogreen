@@ -23,17 +23,18 @@ Projeto com função de inovar dentro da sociedade, tentando ajudar as pessoas q
 [Etapa 3 - Ficha Completo.pdf](https://github.com/Samuellopes31/PROJETO-INOVADOR/files/8775344/Etapa.3.-.Ficha.Completo.pdf)
  
  
- https://user-images.githubusercontent.com/103187575/170391138-0c39021e-9958-4274-9368-b8b8cb0c1899.mp4
+ 
  
 
 ### ETAPA 4- ✅
  
- [Slide Pitch Projeto Inovador.pdf](https://github.com/Samuellopes31/Betim-Ecogreen/files/8840194/Slide.Pitch.Projeto.Inovador.pdf)
+[Uploading Slide Pitch Projeto Inovador.pdf…]()
+
 
 
 ### VÍDEO PITCH- ✅
 
-https://youtu.be/Q6yWiuOIROk
+
 
 
 
