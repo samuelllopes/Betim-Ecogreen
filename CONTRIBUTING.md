@@ -20,3 +20,32 @@ Exemplos de comportamentos negativos:
 - Utilização do aplicativo para fazer falsas denuncias.
 - Espalhar notícias falsas sobre a poluição na comunidade.
 
+## **Aplicação**
+
+Ocorrencias de descarte de esgoto, ou de consumos de irresponsáveis proximo a varzea das flores ou na região de Betim pode ser alertado pelo nosso aplicativo Betim- Ecogreen, o aplicativo além de alerta a defesa ambiental e ainda cria um alerta para a comunidade.
+
+Toda as notificações serão repassadas para a comunidade com informações seguras e verdadeiras.
+
+## **Diretrizes**
+
+A comunidade desenvolvedora do aplicativo Betim-Ecogreen tem algumas diretrizes, para manter o bom funcionamento do aplicativo, mantendo o respeito e a verácidade de informações.
+
+ ### **Ação de convivio entre comunidade desenvolvedora e sociedade**
+
+   O  convivio entre comunidade e aplicação deve-se estar em comjuto, para que haja respeito entre colaboradores e comunidade. Portanto na aba de feedback não aceitaremos xingamentos ou palavrões, a aba de feedbacks servirá apenas para dicas e críticas construtivas. O não comprimento dessas diretrizes caberá medidas disciplinares, tanto para desenvolvedores quanto para pessoas da comunidade.
+ 
+### **Aba de alertas**
+
+   A aba de alertas servirá para apenas alertas de avisos sobre possíveis descartes de poluentes na comunidade, está aba não pode conter informações falsas, pois criaremos uma notificação para a defesa ambiental, onde a mesma irá cuidar da notificação. Portanto quem não seguir esta diretriz poderá ser banido permanentemente da aplicação.
+     
+### **Medidas disciplinares**
+
+- #### **Banimento temporário**
+
+O banimento temporário ocorrerá quando não for comprida alguma norma que não causa tanto impacto na comunidade, mas de certa forma está descomprindo com o funcionamento das normas.
+
+- #### **Banimento permanente**
+
+O banimento permanente ocorrerá quando alguma norma que afete diretamente a comunidade ou seja recorrente de muitos banimentos temporários. Esse comportamento fará com que o usúario seja banido permanentemente da plataforma/aplicação.
+
+
