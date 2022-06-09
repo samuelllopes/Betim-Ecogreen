@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/103187575/172844256-84d2cd14-c6de-4d83
 
 ### VÍDEO PITCH- ✅
 
-
+https://youtu.be/gY_USYNgZ80
 
 
 
